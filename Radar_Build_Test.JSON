@@ -1,0 +1,37 @@
+[
+  {
+    "name": "TAVR",
+    "ring": "STRUCTURE / BIOMECHANICS",
+    "quadrant": "REPAIR",
+    "isNew": "TRUE",
+    "description": "Transcatheter aortic valve replacement (TAVR) is ..."
+  },
+  {
+    "name": "PORCINE TISSUE",
+    "ring": "MATERIAL",
+    "quadrant": "REPLACE",
+    "isNew": "TRUE",
+    "description": "Porcine tissues are typically used for ..."
+  },
+  {
+    "name": "PYROLITIC CARBON PROSTHETIC",
+    "ring": "MATERIAL",
+    "quadrant": "REPLACE",
+    "isNew": "TRUE",
+    "description": "Pyrolytic carbon is a material used to make surgircal mechanical aortic valves in different shapes (caged-ball / monoleaflet / bileaflet etc ..."
+  },
+  {
+    "name": "DE-CELLULARISATION",
+    "ring": "MATERIAL TREATMENT",
+    "quadrant": "REPLACE",
+    "isNew": "TRUE",
+    "description": "Apache Kylin is an open source analytics solution ..."
+  },
+  {
+    "name": "TMVR",
+    "ring": "STRUCTURE / BIOMECHANICS",
+    "quadrant": "REPAIR",
+    "isNew": "TRUE",
+    "description": "Transcether mitral valve replacement (TMVR) is ..."
+  }
+]
